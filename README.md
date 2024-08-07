@@ -15,7 +15,6 @@ Meant to be a repo, inspired by various other CS/SWE that would contain Electric
 | Astranis | Radio Hardware Engineer – Intern | Summer 2025 | San Francisco, CA | <a href="https://simplify.jobs/p/734a42e7-d3c2-4198-ae0d-4ee9ea55fa4e/Radio-Hardware-Engineer--Intern"><img src="https://i.imgur.com/w6lyvuC.png" width="118" alt="Apply"></a> | Aug 07 |
 | Astranis | Ground RF Hardware Engineer Intern | Summer 2025 | San Francisco, CA | <a href="https://simplify.jobs/p/d1608356-8ffb-418d-bdf2-f8080e58cfa8/Ground-RF-Hardware-Engineer--Intern"><img src="https://i.imgur.com/w6lyvuC.png" width="118" alt="Apply"></a> | Aug 07 |
 | Intel | Engineering Computing Windows Systems Administrator – Undergraduate Intern | Summer 2025 | Santa Clara, CA, USA | <a href="https://simplify.jobs/p/08c7e96b-074a-4f5d-b223-4f3a5a5d5f47/Engineering-Computing-Windows-Systems-Administrator--Undergraduate-Intern"><img src="https://i.imgur.com/w6lyvuC.png" width="118" alt="Apply"></a> | Aug 07 |
-![image](https://github.com/user-attachments/assets/3a8b4a4d-e15b-45ed-95f9-ca7c834f2ac7)
 
 
 
